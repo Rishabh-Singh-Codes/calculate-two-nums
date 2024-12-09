@@ -1,0 +1,25 @@
+{
+  "name": "@rishabhsinghcodes/calculate-two-nums",
+  "version": "1.0.0",
+  "description": "Use this package for trivial mathematical calculations using two numbers ;)",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabh-Singh-Codes/calculate-two-nums.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rishabh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabh-Singh-Codes/calculate-two-nums/issues"
+  },
+  "homepage": "https://github.com/Rishabh-Singh-Codes/calculate-two-nums#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
